@@ -12,6 +12,8 @@ target/
 # Web IDE, App Studio
 .che/
 .gen/
+*.env1
+.env
 
 # MTA
 *_mta_build_tmp
